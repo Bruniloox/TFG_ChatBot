@@ -1,1 +1,0 @@
-{"name":"Respuestas","identifier":"GGLPAGXDQ0","description":null,"slotTypeValues":[{"synonyms":[{"value":"Todos los dias"}],"sampleValue":{"value":"Siempre"}},{"synonyms":null,"sampleValue":{"value":"A veces"}},{"synonyms":null,"sampleValue":{"value":"Nunca"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
